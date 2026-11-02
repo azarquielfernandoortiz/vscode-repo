@@ -1,0 +1,7 @@
+Este archivo está siendo creado desde VSCode en el repositorio
+local.
+Haré los cambios y lo subiré a GitHub.
+Después habrá que saber como acceder a esos cambios desde el
+fork que hemos hecho. Imagino que no hay mucho que se pueda
+hacer salvo volver a hacer un nuevo fork.
+Lo preguntare.
